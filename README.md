@@ -4,7 +4,7 @@ sagemaker-genai : Large Language Model Generative AI SageMaker # Python SDK # Ju
 
 ## Objective
 To deploy an LLM model using Amazon SageMaker. 
-To leverage Prompt engineering techniques, 
+To leverage Prompt Engineering techniques, 
 such as zero-shot, one-shot, few-shot, clear-prompt, temperature & cretivity control.
 
 
