@@ -8,7 +8,7 @@ To leverage Prompt engineering techniques,
 such as zero-shot, one-shot, few-shot, clear-prompt, temperature & cretivity control.
 
 
-## DeepSeek, LLAMA, LLM, Generative AI with SageMaker
+## DeepSeek, Llama, LLM, Generative AI with SageMaker
 
 ![sagemaker-genai001.png](./media/sagemaker-genai001.png)
 
