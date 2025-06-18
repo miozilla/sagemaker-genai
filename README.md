@@ -1,4 +1,4 @@
-# sagemaker-genai
+# sagemaker-genai 🐋🐪
 sagemaker-genai : Large Language Model Generative AI SageMaker # Python SDK # JupyterLab
 
 
